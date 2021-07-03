@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+}
+
+table{
+  width: 100%;
+  padding: 50px;
+}
+
+th{
+  padding-bottom: 15px;
+  font-size: x-large;
+}
+
+.height-div{
+  margin: 5px;
+}
+
+.width-div{
+  margin: 5px;
+}
